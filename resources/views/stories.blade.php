@@ -15,7 +15,7 @@
             <input type="text" id="title" name="title" required>
         </div>
         <div>
-            <label for="body">Body</label>
+            <label for="body">Content</label>
             <textarea id="body" name="body" rows="5" required></textarea>
         </div>
         <button type="submit">Submit</button>

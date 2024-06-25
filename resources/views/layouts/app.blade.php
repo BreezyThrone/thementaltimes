@@ -30,5 +30,9 @@
             <h1>THE MENTAL TIMES</h1>
         </div>
     </footer>
+    <script type="module">
+      import { Analytics } from "@vercel/analytics/react";
+      Analytics();
+    </script>
 </body>
 </html>
